@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>GALLERY</title>
+    </head>
+    <body>
+        <input type="text" id="search" placeholder="Search photos">
+        <button onclick="SearchPhotos()">Search</button>
+        <div id="result">
+
+
+        </div>
+    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</html>
+
